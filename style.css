@@ -1,0 +1,19 @@
+body{
+    color: black;
+    background-color: skyblue;
+}
+.heading
+{
+    width: 60%;
+    font-size: 30px;
+}
+#camera, #result
+{
+    border: 3px solid black;
+    width: 350px;
+    height: 350px;
+}
+.name_of_objects, #object_name , #object_accuracy
+{
+    color: whitesmoke;
+}
